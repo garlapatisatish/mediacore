@@ -1,0 +1,6 @@
+framework module media_core {
+    umbrella header "media_core.h"
+
+    export *
+    module * { export * }
+}
